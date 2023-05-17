@@ -1,0 +1,143 @@
+body{
+    background-color:  rgba(56, 107, 5, 0.781);
+}
+h2{
+    font-family: Tahoma;
+}
+p{
+    font-family: Tahoma;
+}
+.cevi{
+    background-image: url(../imagens/ceviche.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 100px;
+    color: rgb(7, 182, 182);
+}
+.chivi{
+    background-image: url(../imagens/chivito.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 100px;
+    color: rgb(7, 182, 182);
+}
+.pout{
+    background-image: url(../imagens/poutine.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 100px;
+    color: rgb(7, 182, 182);
+}
+.brow{
+    background-image: url(../imagens/brownie.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 100px;
+    color: rgb(7, 182, 182);
+}
+.stru{
+    background-image: url(../imagens/strudel.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 100px;
+    color: rgb(7, 182, 182);
+}
+.yaki{
+    background-image: url(../imagens/yakisoba.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 100px;
+    color: rgb(7, 182, 182);
+}
+.guaca{
+    background-image: url(../imagens/guacamole.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 100px;
+    color: rgb(7, 182, 182);
+}
+.histpart{
+    background-color: rgba(255, 225, 124, 0.747);
+    text-align: center;
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+.recpart{
+    background-color: rgba(255, 155, 124, 0.747);
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+.rec{
+    margin-left: 30px;
+}
+footer{
+    background-color: rgba(231, 255, 124, 0.747);
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}

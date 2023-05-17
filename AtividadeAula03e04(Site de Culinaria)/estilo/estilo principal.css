@@ -1,0 +1,128 @@
+:root{
+    --bordercolo: rgb(255, 145, 0);
+}
+
+body{
+    background-color: rgba(56, 107, 5, 0.781);
+}
+
+.princ{
+    
+    background-image: url(../imagens/mapa.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+.princ{
+    color: rgb(192, 43, 6);
+    text-align: center;
+    font-family: Tahoma;
+}
+
+.nav1{
+    position: relative;
+    text-align: center;
+}
+
+.art1{
+    background-image: url(../imagens/aleeuro.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 40px 40px;
+    border-style: solid;
+    border-color: var(--bordercolo);
+    font-family: tahoma;
+}
+.art2{
+    background-image: url(../imagens/americasull.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 40px 40px;
+    border-style: solid;
+    border-color: var(--bordercolo);
+    font-family: tahoma;
+}
+.art3{
+    background-image: url(../imagens/americanorte.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 40px 40px;
+    border-style: solid;
+    border-color: var(--bordercolo);
+    font-family: tahoma;
+}
+.art4{
+    background-image: url(../imagens/novaiorq.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 40px 40px;
+    border-style: solid;
+    border-color: var(--bordercolo);
+    font-family: tahoma;
+}
+.art5{
+    background-image: url(../imagens/ALEMAN.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 40px 40px;
+    border-style: solid;
+    border-color: var(--bordercolo);
+    font-family: tahoma;
+}
+.art6{
+    background-image: url(../imagens/asia.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 40px 40px;
+    border-style: solid;
+    border-color: var(--bordercolo);
+    font-family: tahoma;
+}
+.art7{
+    background-image: url(../imagens/merico.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top center;
+    background-clip: border-box;
+    background-size: cover;
+    border-radius: 40px 40px;
+    border-style: solid;
+    border-color:  var(--bordercolo);
+    font-family: tahoma;
+}
+
+.div1{
+
+    background-color: rgba(0, 0, 0, 0.322);
+    color: rgb(206, 252, 233);
+    font-family: tahoma;
+}
+.receitas{
+    image-rendering: 20px 20px;
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
